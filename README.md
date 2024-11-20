@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @still-seeker
 - 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning java, C++
+- 🌱 I’m currently learning fullstack web development
+- languages i work with are Java, javascript, HTML, CSS
 - 💞️ I’m looking to collaborate on app dev
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
