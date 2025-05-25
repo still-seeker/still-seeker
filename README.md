@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @still-seeker
+- 👋 Hi, I’m Samuel Ngobi
+  - You could also just call me Sarmah
 - 👀 I’m interested in web development and web security
 - 🌱 I’m currently learning fullstack web development
-- languages i work with are Java, Ruby, JavaScript, HTML, CSS
-- 💞️ I’m looking to collaborate on app dev
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: There is good fortune in today!
 
 <!---
