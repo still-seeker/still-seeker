@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Samuel Ngobi<br>   You could also just call me Sarmah<br>   👀 I’m a web development and web security enthusiast<br>   🌱 I’m currently learning full-stack web development<br>   ⚡ Fun fact: There is great fortune in today!
+👋 Hi, I’m Samuel Sarmah,<br>   a web development and web security enthusiast currently learning full-stack web development.<br>   ⚡ Fun fact: There is great fortune in today!
 
 
 ## 🌐 Socials:
